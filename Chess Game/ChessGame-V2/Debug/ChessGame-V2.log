@@ -1,0 +1,14 @@
+﻿  Piece.cpp
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\piece.cpp(51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\piece.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\piece.cpp(282): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\piece.cpp(323): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\piece.cpp(410): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\piece.cpp(494): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Board.cpp
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\board.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\board.cpp(249): warning C4018: '<': signed/unsigned mismatch
+d:\coding projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkmate done )\chessgame-v2\board.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ChessGame-V2.vcxproj -> D:\Coding Projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkMate Done )\Debug\ChessGame-V2.exe
+  ChessGame-V2.vcxproj -> D:\Coding Projects\chess!!!!!!!!!!!!!!!!!!!!!!!! (checkMate Done )\Debug\ChessGame-V2.pdb (Partial PDB)

@@ -1,0 +1,59 @@
+Bucanera dispone de varios adornos dependiendo del contexto y la tecla en que se use:
+
+• Tecla: [
+1) Voluta inicial larga descendente conectada con la primera letra de una palabra.
+2) Usada al final de una palabra con la función Open Type ‘Swashes’ se consigue un adorno terminal centrado desconectado de las letras.
+
+• Tecla: ]
+1) Voluta terminal larga descendente conectada con la última letra de una palabra.
+2) Usada al principio de una frase con la función Open Type ‘Swashes’ se consigue un adorno inicial centrado desconectado de las letras.
+
+• Tecla: {
+1) Voluta inicial media descendente conectada con la primera letra de una palabra.
+2) Usada al final de una palabra con la función Open Type ‘Swashes’ se consigue un adorno terminal centrado desconectado de las letras.
+
+• Tecla: }
+1) Voluta terminal media conectada con la última letra de una palabra.
+2) Usada al principio de una frase con la función Open Type ‘Swashes’ se consigue un adorno inicial desconectado de la palabra.
+
+• Tecla: ¬
+1) Adorno terminal medio descendente unido a la última letra de una palabra.
+2) Usado al final o principio de palabras con la función Open Type Swashes se consiguen volutas dobles separadas de las letras.
+
+• Tecla: |
+1) Ornamento terminal corto descendente unido a la última letra de una palabra.
+
+• Tecla: #
+1) Ornamento terminal corto ascendente unido a la última letra de una palabra.
+
+============================================================
+**********--ENGLISH--**********
+============================================================
+
+Buccaneer has several ornaments depending on the context and the key is used:
+
+• Key: [
+1) Scroll down initial long connected with the first letter of a word.
+2) Used at the end of a word and the Open Type 'Swashes' function is achieved, a terminal motif centered off the letters.
+
+• Key: ]
+1) Scroll down long terminal connected to the last letter of a word.
+2) Used at the beginning of a sentence and the Open Type 'Swashes' function is achieved, an initial motif centered off the letters.
+
+• Tecla: {
+1) Voluta inicial media descendente conectada con la primera letra de una palabra.
+2) Usada al final de una palabra con la función Open Type ‘Swashes’ se consigue, un adorno terminal centrado desconectado de las letras.
+
+• Key: }
+1) Volute mean terminal connected to the last letter of a word.
+2) Used to start a sentence with the Open Type 'Swashes' function is achieved, an initial motif disconnected from the word.
+
+• Key: ¬
+1) Volute down terminal means attached to the last letter of a word.
+2) Used at the end or beginning of words with the Open Type Swashes function are achieved double scrolls separate letters.
+
+• Key: |
+1) Short terminal descending ornament attached to the last letter of a word.
+
+• Key: #
+1) Short terminal ascending ornament attached to the last letter of a word.

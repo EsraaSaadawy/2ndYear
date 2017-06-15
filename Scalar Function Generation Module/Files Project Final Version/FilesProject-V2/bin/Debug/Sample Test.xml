@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<catalog>
+  <book id="bk101">
+    <author datatype = "string">Gambardella, Matthew</author>
+    <title datatype = "string">XML Developer's Guide</title>
+    <genre datatype = "string">Computer</genre>
+    <price datatype = "double">44.95</price>
+    <publish_date datatype = "string">2000-10-01</publish_date>
+    <description datatype = "string">An in-depth look at creating applications 
+      with XML.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Ahmed Mohamed</name>
+	<id datatype="int">1</id>
+	<age datatype="int">20</age>
+	<job datatype="string">student</job>
+	<phone datatype="string">01212345682</phone>
+  </customer>
+  <book id="bk102">
+    <author datatype = "string">Ralls, Kim</author>
+    <title datatype = "string">Midnight Rain</title>
+    <genre datatype = "string">Fantasy</genre>
+    <price datatype = "double">5.95</price>
+    <publish_date datatype = "string">2000-12-16</publish_date>
+    <description datatype = "string">A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Amr Mahmoud</name>
+	<id datatype="int">5</id>
+	<age datatype="int">34</age>
+	<job datatype="string">pharmacist</job>
+	<phone datatype="string">01145698782</phone>
+  </customer>
+  <book id="bk103">
+    <author datatype = "string">Corets, Eva</author>
+    <title datatype = "string">Maeve Ascendant</title>
+    <genre datatype = "string">Fantasy</genre>
+    <price datatype = "double">5.95</price>
+    <publish_date datatype = "string">2000-11-17</publish_date>
+    <description datatype = "string">After the collapse of a nanotechnology 
+      society in England, the young survivors lay the 
+      foundation for a new society.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Norhan Hesham</name>
+	<id datatype="int">9</id>
+	<age datatype="int">25</age>
+	<job datatype="string">engineer</job>
+	<phone datatype="string">01789654682</phone>
+  </customer>
+  <book id="bk104">
+    <author datatype = "string">Corets, Eva</author>
+    <title datatype = "string">Oberon's Legacy</title>
+    <genre datatype = "string">Fantasy</genre>
+    <price datatype = "double">5.95</price>
+    <publish_date datatype = "string">2001-03-10</publish_date>
+    <description datatype = "string">In post-apocalypse England, the mysterious 
+      agent known only as Oberon helps to create a new life 
+      for the inhabitants of London. Sequel to Maeve 
+      Ascendant.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Tarek Edris</name>
+	<id datatype="int">10</id>
+	<age datatype="int">44</age>
+	<job datatype="string">teacher</job>
+	<phone datatype="string">01255669882</phone>
+  </customer>
+  <book id="bk105">
+    <author datatype = "string">Corets, Eva</author>
+    <title datatype = "string">The Sundered Grail</title>
+    <genre datatype = "string">Fantasy</genre>
+    <price datatype = "double">5.95</price>
+    <publish_date datatype = "string">2001-09-10</publish_date>
+    <description datatype = "string">The two daughters of Maeve, half-sisters, 
+      battle one another for control of England. Sequel to 
+      Oberon's Legacy.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Sherif</name>
+	<id datatype="int">15</id>
+	<age datatype="int">35</age>
+	<job datatype="string">lawyer</job>
+	<phone datatype="string">01211255682</phone>
+  </customer>
+  <book id="bk106">
+    <author datatype = "string">Randall, Cynthia</author>
+    <title datatype = "string">Lover Birds</title>
+    <genre datatype = "string">Romance</genre>
+    <price datatype = "double">4.95</price>
+    <publish_date datatype = "string">2000-09-02</publish_date>
+    <description datatype = "string">When Carla meets Paul at an ornithology 
+      conference, tempers fly as feathers get ruffled.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Basel El-Askary</name>
+	<id datatype="int">12</id>
+	<age datatype="int">22</age>
+	<job datatype="string">lawyer</job>
+	<phone datatype="string">01212352682</phone>
+  </customer>
+  <book id="bk107">
+    <author datatype = "string">Thurman, Paula</author>
+    <title datatype = "string">Splish Splash</title>
+    <genre datatype = "string">Romance</genre>
+    <price datatype = "double">4.95</price>
+    <publish_date datatype = "string">2000-11-02</publish_date>
+    <description datatype = "string">A deep sea diver finds true love twenty 
+      thousand leagues beneath the sea.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Ghada</name>
+	<id datatype="int">19</id>
+	<age datatype="int">24</age>
+	<job datatype="string">Software Engineer</job>
+	<phone datatype="string">01211459882</phone>
+  </customer>
+  <book id="bk108">
+    <author datatype = "string">Knorr, Stefan</author>
+    <title datatype = "string">Creepy Crawlies</title>
+    <genre datatype = "string">Horror</genre>
+    <price datatype = "double">4.95</price>
+    <publish_date datatype = "string">2000-12-06</publish_date>
+    <description datatype = "string">An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Mahmoud Abdel-Wahab</name>
+	<id datatype="int">35</id>
+	<age datatype="int">23</age>
+	<job datatype="string">teacher</job>
+	<phone datatype="string">01158945682</phone>
+  </customer>
+  <book id="bk109">
+    <author datatype = "string">Kress, Peter</author>
+    <title datatype = "string">Paradox Lost</title>
+    <genre datatype = "string">Science Fiction</genre>
+    <price datatype = "double">6.95</price>
+    <publish_date datatype = "string">2000-11-02</publish_date>
+    <description datatype = "string">After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Radwa Taha</name>
+	<id datatype="int">80</id>
+	<age datatype="int">28</age>
+	<job datatype="string">software engineer</job>
+	<phone datatype="string">01123874592</phone>
+  </customer>
+  <book id="bk110">
+    <author datatype = "string">O'Brien, Tim</author>
+    <title datatype = "string">Microsoft .NET: The Programming Bible</title>
+    <genre datatype = "string">Computer</genre>
+    <price datatype = "double">36.95</price>
+    <publish_date datatype = "string">2000-12-09</publish_date>
+    <description datatype = "string">Microsoft's .NET initiative is explored in 
+      detail in this deep programmer's reference.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Ahmed Abdel-Latif</name>
+	<id datatype="int">75</id>
+	<age datatype="int">21</age>
+	<job datatype="string">officer</job>
+	<phone datatype="string">01125895682</phone>
+  </customer>
+  <book id="bk111">
+    <author datatype = "string">O'Brien, Tim</author>
+    <title datatype = "string">MSXML3: A Comprehensive Guide</title>
+    <genre datatype = "string">Computer</genre>
+    <price datatype = "double">36.95</price>
+    <publish_date datatype = "string">2000-12-01</publish_date>
+    <description datatype = "string">The Microsoft MSXML3 parser is covered in 
+      detail, with attention to XML DOM interfaces, XSLT processing, 
+      SAX and more.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Samar Magdy</name>
+	<id datatype="int">66</id>
+	<age datatype="int">21</age>
+	<job datatype="string">student</job>
+	<phone datatype="string">01012345682</phone>
+  </customer>
+  <book id="bk112">
+    <author datatype = "string">Galos, Mike</author>
+    <title datatype = "string">Visual Studio 7: A Comprehensive Guide</title>
+    <genre datatype = "string">Computer</genre>
+    <price datatype = "double">49.95</price>
+    <publish_date datatype = "string">2001-04-16</publish_date>
+    <description datatype = "string">Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+      integrated into a comprehensive development 
+      environment.</description>
+  </book>
+  <customer>
+	<name datatype= "string">Kareem Hussein</name>
+	<id datatype="int">65</id>
+	<age datatype="int">23</age>
+	<job datatype="string">student</job>
+	<phone datatype="string">01159865682</phone>
+  </customer>
+</catalog>
